@@ -1,0 +1,414 @@
+fileFormatVersion: 2
+guid: df575cfcf72e6cf40b475c85463ce998
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Plent Walk_31
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 0
+        width: 49
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e0dce81652b634b9b376245e81984a
+      internalID: -2013335019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plent Walk_33
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 0
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d321ffac794aa6b44a11489e5594bfd9
+      internalID: 770986687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plent Walk_35
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 0
+        width: 49
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f4fa9ae524a7a4f86aa3f77196fe14
+      internalID: 630940019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plent Walk_36
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 0
+        width: 54
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab1a220a73b3c94458e4ac397725c52d
+      internalID: 1826264515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plent Walk_38
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 0
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ed6a956cc458f48857ab500062a419
+      internalID: -1520444958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plent Walk_41
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 0
+        width: 54
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8bd523242b60044788e8ae7242929ad
+      internalID: 199279179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plent Walk_42
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 0
+        width: 53
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1fb078ef2c239a4bbd1af8aeb8d7b3d
+      internalID: -545264572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plent Walk_44
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 0
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f54ce5e4e2cd1214c9d86989160162c8
+      internalID: -249994144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Plent Walk_47
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 0
+        width: 50
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24bd13c116df245409e63bb525206508
+      internalID: 1732176369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Plent Walk_0: 1731955183
+      Plent Walk_1: -1683346828
+      Plent Walk_10: 1230447960
+      Plent Walk_11: 48838461
+      Plent Walk_12: 1764107671
+      Plent Walk_13: 533323937
+      Plent Walk_14: -301900570
+      Plent Walk_15: 996000839
+      Plent Walk_16: -1858963557
+      Plent Walk_17: -684517803
+      Plent Walk_18: 1526719779
+      Plent Walk_19: -1565441904
+      Plent Walk_2: 1670392587
+      Plent Walk_20: -1747671973
+      Plent Walk_21: -1378649311
+      Plent Walk_22: 1909797866
+      Plent Walk_23: -1507061579
+      Plent Walk_24: -1926186309
+      Plent Walk_25: 1485898711
+      Plent Walk_26: -1030989502
+      Plent Walk_27: 212647529
+      Plent Walk_28: -1634867893
+      Plent Walk_29: -721663931
+      Plent Walk_3: 1387528158
+      Plent Walk_30: 865554896
+      Plent Walk_31: -2013335019
+      Plent Walk_32: -1801312647
+      Plent Walk_33: 770986687
+      Plent Walk_34: 1902979671
+      Plent Walk_35: 630940019
+      Plent Walk_36: 1826264515
+      Plent Walk_37: 1999790284
+      Plent Walk_38: -1520444958
+      Plent Walk_39: 1817314464
+      Plent Walk_4: 285790761
+      Plent Walk_40: -1364675263
+      Plent Walk_41: 199279179
+      Plent Walk_42: -545264572
+      Plent Walk_43: 905993883
+      Plent Walk_44: -249994144
+      Plent Walk_45: -1451197380
+      Plent Walk_46: -439808439
+      Plent Walk_47: 1732176369
+      Plent Walk_48: -1877721723
+      Plent Walk_49: -77353055
+      Plent Walk_5: -1393317134
+      Plent Walk_50: 228794102
+      Plent Walk_51: -507404987
+      Plent Walk_52: -1836718337
+      Plent Walk_53: 1243575210
+      Plent Walk_54: 2067685501
+      Plent Walk_55: -2111761879
+      Plent Walk_56: 446972147
+      Plent Walk_57: -1075365502
+      Plent Walk_58: 162169402
+      Plent Walk_59: 1748429878
+      Plent Walk_6: -1810365709
+      Plent Walk_60: 1560142300
+      Plent Walk_61: -339619917
+      Plent Walk_62: 885057689
+      Plent Walk_63: 345061259
+      Plent Walk_64: 442557237
+      Plent Walk_65: 1450563582
+      Plent Walk_66: 159867406
+      Plent Walk_67: 907146733
+      Plent Walk_68: -2046208392
+      Plent Walk_69: -1992289509
+      Plent Walk_7: 1470582366
+      Plent Walk_70: -102603418
+      Plent Walk_71: -2108572451
+      Plent Walk_72: 360409922
+      Plent Walk_73: -1423276306
+      Plent Walk_74: 1973563890
+      Plent Walk_75: -470612126
+      Plent Walk_76: 312487833
+      Plent Walk_77: 844039064
+      Plent Walk_78: -2053484650
+      Plent Walk_79: -1035292421
+      Plent Walk_8: 937455681
+      Plent Walk_80: 1516881336
+      Plent Walk_81: -1633687281
+      Plent Walk_82: 660217940
+      Plent Walk_83: -51550030
+      Plent Walk_84: -495590258
+      Plent Walk_9: 328918806
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

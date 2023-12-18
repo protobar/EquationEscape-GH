@@ -1,0 +1,913 @@
+fileFormatVersion: 2
+guid: 133dc227ded3d1849a7dee8e50b67cd0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_4
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1680
+        width: 774
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 992929d9c9577ca47acd989aff8aaccd
+      internalID: -1878803899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_5
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 1116
+        width: 909
+        height: 678
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 863d264ccc757694c84c4b23eee47eed
+      internalID: 1835789110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_6
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1560
+        width: 774
+        height: 108
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5740b2202e5c60545a25b9243c453a61
+      internalID: 808565993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_8
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1338
+        width: 770
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec7dd66cd054751449e22eeb66e19778
+      internalID: 506387401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_10
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1230
+        width: 768
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa696b02750db14081e70d71c9407b3
+      internalID: -1523282883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_12
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 1116
+        width: 765
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df85d8203e3aeb47931e71f5936f0b5
+      internalID: -1603606661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_14
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 852
+        width: 592
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95350b12e84cb6340a8f5a52f322a48f
+      internalID: -1320842532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_15
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 852
+        width: 522
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d8c682a18ede042ba4c2a10b669107
+      internalID: -861943518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_16
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 852
+        width: 522
+        height: 195
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597b129252d8b024381251d61348f694
+      internalID: -148475318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_24
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 606
+        width: 168
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd18151c9c29f9645a344da3511bc936
+      internalID: -267570402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_25
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 607
+        width: 168
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c42404450c69cc47a19c36db227cdbd
+      internalID: 276320360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_26
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 606
+        width: 168
+        height: 169
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c3bc4228a3b864bbd42c2977167694
+      internalID: -1209927927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_27
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 606
+        width: 168
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488bd321842b2c640aeb2ec9d3fb6681
+      internalID: -659372479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_28
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 606
+        width: 167
+        height: 170
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838c24602703dd5439248e1073381ace
+      internalID: -1844707894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_29
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 606
+        width: 168
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4663d14c94e7f3e4280f5212a2707db3
+      internalID: 479684565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_30
+      rect:
+        serializedVersion: 2
+        x: 1260
+        y: 606
+        width: 163
+        height: 168
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78957227e8232844cadc28fb7fce2928
+      internalID: 759370670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_31
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 606
+        width: 168
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39de17f094c3a394298d7397c0572f15
+      internalID: 150344616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_32
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 606
+        width: 168
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6534a516ee1b954badedeac41a350fc
+      internalID: -313711951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 360
+        width: 176
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a4d2e804dbff1b4a9d8c4fcf34658e8
+      internalID: 1719820304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_36
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 360
+        width: 179
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574684beef69f4742aba5dcf8d03d2d3
+      internalID: -1841510987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_37
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 360
+        width: 180
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b7b0f15a107f1445a4d8b2b7c311640
+      internalID: -921236554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_38
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 360
+        width: 174
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06f1952d4a3c10e43b0b99edadc6a7a8
+      internalID: -1311280831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_39
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 360
+        width: 174
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8cae8954291584e938ab6aaca53c75
+      internalID: -1280503368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_40
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 360
+        width: 174
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22187fad901805a4386b474e7d9f6218
+      internalID: 2111594451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_41
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 360
+        width: 180
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72383e3eb40e21242a0b3a4b5ab85268
+      internalID: 1947277583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_42
+      rect:
+        serializedVersion: 2
+        x: 1446
+        y: 360
+        width: 180
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4213627b7da09c4e8cc52e83c76fc73
+      internalID: 711145260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_43
+      rect:
+        serializedVersion: 2
+        x: 1638
+        y: 360
+        width: 180
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7124eabd21cebf9449bc1aba3f5f8863
+      internalID: 1737288398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_46
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 121
+        width: 196
+        height: 193
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d066e16f39db71d4eb69be9ee5d88c21
+      internalID: 1719169026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_47
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 120
+        width: 197
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b3cc8cf0c127e4ea3884374e0f80dc
+      internalID: -1020599335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_49
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 125
+        width: 556
+        height: 163
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e14c0d56997b849b917b44b93ec119
+      internalID: 468195245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_51
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 114
+        width: 156
+        height: 180
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5befa482c42a9498282127a32a0abb
+      internalID: 295993863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_52
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 116
+        width: 156
+        height: 178
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e501804738ea1341ad138aeb88cc3ce
+      internalID: -1619134433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_53
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 127
+        width: 150
+        height: 154
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888c6883395e6e7429d984725b79657d
+      internalID: -1029261700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_54
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 132
+        width: 153
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7eb99ebbe05ec04e955628416beb7d4
+      internalID: 1518813811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_0: 72669370
+      vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_1: -1677532447
+      vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_10: -1523282883
+      vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_11: -1545449957
+      vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_12: -1603606661
+      vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_13: -1545999519
+      vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_14: -1320842532
+      vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_15: -861943518
+      vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_16: -148475318
+      vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_17: -924048220
+      vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_18: -368341764
+      vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_19: -131776062
+      vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_2: -1836519122
+      vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_20: 1094423003
+      vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_21: 756993321
+      vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_22: 1678436827
+      vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_23: 1679062423
+      vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_24: -267570402
+      vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_25: 276320360
+      vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_26: -1209927927
+      vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_27: -659372479
+      vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_28: -1844707894
+      vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_29: 479684565
+      vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_3: -317210101
+      vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_30: 759370670
+      vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_31: 150344616
+      vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_32: -313711951
+      vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_33: 743115774
+      vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_34: -782564321
+      vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_35: 1719820304
+      vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_36: -1841510987
+      vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_37: -921236554
+      vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_38: -1311280831
+      vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_39: -1280503368
+      vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_4: -1878803899
+      vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_40: 2111594451
+      vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_41: 1947277583
+      vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_42: 711145260
+      vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_43: 1737288398
+      vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_44: -1351831185
+      vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_45: 1757488653
+      vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_46: 1719169026
+      vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_47: -1020599335
+      vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_48: 87860799
+      vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_49: 468195245
+      vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_5: 1835789110
+      vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_50: 181794582
+      vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_51: 295993863
+      vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_52: -1619134433
+      vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_53: -1029261700
+      vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_54: 1518813811
+      vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_55: 1599450152
+      vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_56: -933760819
+      vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_57: 638800106
+      vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_58: 1418124438
+      vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_6: 808565993
+      vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_7: 995077875
+      vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_8: 506387401
+      vecteezy_buttons-from-wooden-boards-with-green-for-ui-game_13868042-removebg_9: -1970761332
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
